@@ -101,7 +101,4 @@ docker-compose exec sentinel redis-cli -p 26379 SENTINEL get-master-addr-by-name
 [2]: https://registry.hub.docker.com/u/joshula/redis-sentinel/
 [3]: https://docs.docker.com/compose/
 
-## Contributors
-
-* Mustafa Ileri (<mi@mustafaileri.com>)
 
